@@ -2,17 +2,17 @@
 
 # User-Segmentation
 **KEY INSIGHTS AND RECOMMENDATIONS FOR THE BUSINESS**
-Cluster 0 – “Weekend Warriors”: High weekend online activity, moderate likes and reactions, predominantly male, age group 25-34, income level 80k-100k.
-Cluster 1 – “Engaged Professionals”: Balanced online activity, high likes and reactions, predominantly male, age group 25-34, high income (100k+).
-Cluster 2 – “Low-Key Users”: Moderate to high weekend online activity, moderate likes and reactions, predominantly male, age group 25-34, income level 60k-80k, lower CTR.
-Cluster 3 – “Active Explorers”: High overall online activity, lower likes and reactions, predominantly female, age group 25-34, income level 60k-80k.
-Cluster 4 – “Budget Browsers”: Moderate online activity, lowest likes and reactions, predominantly female, age group 25-34, lowest income level (0-20k), lower CTR.
+* Cluster 0 – “Weekend Warriors”: High weekend online activity, moderate likes and reactions, predominantly male, age group 25-34, income level 80k-100k.
+* Cluster 1 – “Engaged Professionals”: Balanced online activity, high likes and reactions, predominantly male, age group 25-34, high income (100k+).
+* Cluster 2 – “Low-Key Users”: Moderate to high weekend online activity, moderate likes and reactions, predominantly male, age group 25-34, income level 60k-80k, lower CTR.
+* Cluster 3 – “Active Explorers”: High overall online activity, lower likes and reactions, predominantly female, age group 25-34, income level 60k-80k.
+* Cluster 4 – “Budget Browsers”: Moderate online activity, lowest likes and reactions, predominantly female, age group 25-34, lowest income level (0-20k), lower CTR.
 
-•	Target High-Engagement Clusters with Premium Products
-•	Focus Weekend Campaigns on Cluster 1
-•	Use Retargeting for Low CTR Clusters
-•	A/B Test Different Campaigns
-•	Diversify Ad Content Based on Demographics
+*	Target High-Engagement Clusters with Premium Products
+*	Focus Weekend Campaigns on Cluster 1
+*	Use Retargeting for Low CTR Clusters
+*	A/B Test Different Campaigns
+*	Diversify Ad Content Based on Demographics
 
 
 # PROBLEM STATEMENT
