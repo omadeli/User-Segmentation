@@ -26,10 +26,10 @@ Dataset can found https://statso.io/wp-content/uploads/2024/02/user_profiles_for
 The dataset has been cleaned and does not contain missing values thus it is ready for exploration.
 
 **Analysing the distribution of Age, Gender, Education Level, Income Level we can conclude that:**
-•	25-34 is the most common age group, with 65+ be the least frequent
-•	Male and Female gender are equally distributed
-•	Education Level is fairly evenly distributed
-•	Income Level is also fairly evenly distributed with 0-20k being the least frequent income level
+*	25-34 is the most common age group, with 65+ be the least frequent
+*	Male and Female gender are equally distributed
+*	Education Level is fairly evenly distributed
+*	Income Level is also fairly evenly distributed with 0-20k being the least frequent income level
 
 ![image](https://github.com/user-attachments/assets/fdf4c38d-a13d-4c34-bdeb-16814be759b6)
 
