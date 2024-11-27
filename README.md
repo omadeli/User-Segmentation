@@ -1,6 +1,14 @@
 ![pexels-goumbik-669610](https://github.com/user-attachments/assets/88b4a2a9-d88a-4a84-8724-3cbf06f893bf)
 
-# User-Segmentation
+# Analysing customer behaviour using exploratory data analysis and machine learning algorithm
+
+# PROBLEM STATEMENT
+Develop a robust user profiling and segmentation system that leverages machine learning and data analysis techniques to categorize users into distinct segments. By analyzing user interaction data, demographic information, and engagement metrics, identify meaningful patterns and clusters within the user base. The ultimate goal is to enable businesses to tailor their advertising campaigns to the identified segments, thereby increasing ad relevance, user engagement, and conversion rates while optimizing ad spend.
+
+# ABOUT THE DATASET
+The dataset comprises a diverse set of user metrics collected from an online platform, consisting of 1,000 user profiles with 16 distinct features. These features include demographics (age, gender, income level, and education), online behavior (likes and reactions, followed accounts, device usage), engagement with content (time spent online during weekdays and weekends, click-through rates, conversion rates), interaction with ads (ad interaction time), and user interests.
+Dataset can found https://statso.io/wp-content/uploads/2024/02/user_profiles_for_ads.csv
+
 **KEY INSIGHTS AND RECOMMENDATIONS FOR THE BUSINESS**
 * Cluster 0 – “Weekend Warriors”: High weekend online activity, moderate likes and reactions, predominantly male, age group 25-34, income level 80k-100k.
 * Cluster 1 – “Engaged Professionals”: Balanced online activity, high likes and reactions, predominantly male, age group 25-34, high income (100k+).
@@ -13,14 +21,6 @@
 *	Use Retargeting for Low CTR Clusters
 *	A/B Test Different Campaigns
 *	Diversify Ad Content Based on Demographics
-
-
-# PROBLEM STATEMENT
-Develop a robust user profiling and segmentation system that leverages machine learning and data analysis techniques to categorize users into distinct segments. By analyzing user interaction data, demographic information, and engagement metrics, identify meaningful patterns and clusters within the user base. The ultimate goal is to enable businesses to tailor their advertising campaigns to the identified segments, thereby increasing ad relevance, user engagement, and conversion rates while optimizing ad spend.
-
-# ABOUT THE DATASET
-The dataset comprises a diverse set of user metrics collected from an online platform, consisting of 1,000 user profiles with 16 distinct features. These features include demographics (age, gender, income level, and education), online behavior (likes and reactions, followed accounts, device usage), engagement with content (time spent online during weekdays and weekends, click-through rates, conversion rates), interaction with ads (ad interaction time), and user interests.
-Dataset can found https://statso.io/wp-content/uploads/2024/02/user_profiles_for_ads.csv
 
 # EXPLORATORY DATA ANALYSIS
 The dataset has been cleaned and does not contain missing values thus it is ready for exploration.
